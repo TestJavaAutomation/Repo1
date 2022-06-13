@@ -1,0 +1,9 @@
+Step1: 
+	lunch the browser
+Step2: 
+	Open the URL
+Step3: 
+	Enter the Key words
+Step4:
+	Close the browser
+
