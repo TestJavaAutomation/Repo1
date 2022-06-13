@@ -1,2 +1,10 @@
 Changes
 Changes 2 time
+
+
+public Class Student{
+	public static void main(String[] args){
+		System.out.println("WelCome New World");
+}
+
+}
